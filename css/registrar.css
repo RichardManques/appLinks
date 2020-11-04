@@ -1,0 +1,25 @@
+body{
+    font-family: 'Saira Condensed', sans-serif;
+    background-image: url(../img/3px-tile.png);
+    background-color: #000000;
+}
+
+.fondo{
+    background-color: white;
+}
+
+.relleno{
+    padding: 100px;
+}
+
+.boton{
+    width: 100%;
+    background-color:#a3a315;
+    border-radius: 20px;
+    color: #000000;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+input{
+    font-family: 'Saira Condensed', sans-serif;
+}

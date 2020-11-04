@@ -1,0 +1,22 @@
+body{
+    background-image: url(../img/diagmonds.png);
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.container{
+    padding: 100px;
+}
+
+div .fondo{
+    background-color: rgba(255, 255, 255, 0.897);
+    width: 80%;
+}
+
+div input{
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.boton{
+    width: 100%;
+    border-radius: 20px;
+}
